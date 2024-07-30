@@ -10,14 +10,26 @@ The Django CRM app is designed to manage customer relationships efficiently. It 
 ##  User Authentication:
 * Secure user registration and login.
 * Ensures authorized access to the app.
+
+![Screenshot 2024-07-31 010613](https://github.com/user-attachments/assets/56dbc52d-c0ba-4a9e-af55-efc5120f2e77)
+
+![Screenshot 2024-07-31 010559](https://github.com/user-attachments/assets/cbb207e3-a090-41e6-9331-335e0a2e4e41)
+
 ##  Customer Records:
 * Create new customer entries.
 * View existing customer details.
 * Update customer information (e.g., contact details).
 * Delete customer records when necessary.
+
+![Screenshot 2024-07-31 010635](https://github.com/user-attachments/assets/103b938c-b8c8-4d87-9888-997bfa1b9b81)
+
 ## Web Interface:
 * Intuitive web interface for users.
 * Bootstrap-based styling.
+
+![Screenshot 2024-07-31 010532](https://github.com/user-attachments/assets/b858d7bc-a11f-4554-9075-63af7f22c114)
+
+![Screenshot 2024-07-31 010800](https://github.com/user-attachments/assets/15a9d076-ecba-4ebd-90a0-33be06bfbaf4)
 
 # Use Cases for CRUD Operations
 ## Create ©:
